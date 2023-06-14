@@ -66,5 +66,10 @@ function executaHipotese(n1,n2,info){
 }
 
 
+executaHipotese(1,10,true);
+executaHipotese(2,20,false);
+executaHipotese(3,30,false);
+
+
 
 
